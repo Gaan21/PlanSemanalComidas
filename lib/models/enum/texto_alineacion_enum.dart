@@ -1,0 +1,4 @@
+enum TextoAlineacionEnum {
+  izquierda,
+  derecha,
+}

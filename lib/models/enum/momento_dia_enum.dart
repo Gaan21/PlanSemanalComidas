@@ -1,0 +1,1 @@
+enum MomentoDiaEnum { comida, cena }

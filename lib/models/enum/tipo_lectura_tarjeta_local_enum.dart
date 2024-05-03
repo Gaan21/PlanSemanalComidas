@@ -1,0 +1,4 @@
+enum TipoLecturaTarjetaLocalEnum {
+  pinpad,
+  qr,
+}
